@@ -1,0 +1,8 @@
+Origin: DevNanhtu's Repo
+Label: DevNanhtu's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: DevNanhtu's Repo

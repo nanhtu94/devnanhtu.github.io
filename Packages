@@ -1,0 +1,13 @@
+Package: com.Nanhtu.eraser
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Nanhtu <nanhtu93@gmail.com>
+Filename: /debs/Eraser.deb
+Size: 519912
+MD5sum: a23b74f8b4d88b8ee4963ba73de440f3
+SHA1: b2c5234fbe2fa0201249e8b13accd51aa0c67f51
+SHA256: b7263bdb3d9f17f233c204b2645aa632cc697aee06667ae02a0ae469d1d2d0ee
+Section: Tweaks
+Description: Eraser cho iOS 10.3.x (64bit)
+Author: Nanhtu <nanhtu93@gmail.com>
+Name: Eraser Cho iOS 10.3.x (64bit)
